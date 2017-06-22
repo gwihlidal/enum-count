@@ -1,0 +1,8 @@
+[package]
+name = "enum-count"
+version = "0.1.0"
+authors = ["Boscop <kingboscop@gmail.com>"]
+
+[dependencies]
+# enum-count-derive = { path = 'D:\projects\enum-count-derive' }
+enum-count-derive = { git = 'https://github.com/Boscop/enum-count-derive' }
